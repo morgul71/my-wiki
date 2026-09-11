@@ -1,5 +1,7 @@
 ---
 publish: "true"
+feature: thumbnails/youtube/bRbaiTbngUc.webp
+thumbnail: thumbnails/resized/fa72860bdce5f9828ce2b62952a68328_86cf658e.webp
 ---
 # Wiki 공개 테스트
 
@@ -10,3 +12,5 @@ publish: "true"
 Obsidian → Quartz → GitHub → GitHub Pages
 
 이 과정이 정상적으로 작동하는지 확인한다.
+
+![](https://www.youtube.com/embed/bRbaiTbngUc)
