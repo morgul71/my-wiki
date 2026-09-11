@@ -10,6 +10,7 @@ tags:
   - pkm
 feature: 99. Attachment/d50902e7225e8c83d1b61de36cd93c9c_MD5.jpg
 thumbnail: thumbnails/resized/96e8492a4c6cc615d4263ee6f13b2398_86cf658e.webp
+publish: "false"
 ---
 
 # Obsidian-Quartz 개인 Wiki 구축 기록
